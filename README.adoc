@@ -1,0 +1,9 @@
+= A collection of DFASDL description. =
+
+This repository holds a collection of DFASDL descriptions for various data
+formats.
+
+== Usage ==
+
+Simply browse or search the repository for the needed DFASDL, download it and 
+import into your link:http://www.tensei-data.com[Tensei-Data application].
