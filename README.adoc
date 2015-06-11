@@ -28,6 +28,10 @@ by using a choice.
 Describes information about people, which can be read from a CSV file or
 database.
 
+==== simple-text ====
+
+A DFASDL that describes the parts of a simple text.
+
 ==== vCard ====
 
 Describes the single elements of a vCard.
