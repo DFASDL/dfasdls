@@ -5,13 +5,18 @@ formats.
 
 == Usage ==
 
-Simply browse or search the repository for the needed DFASDL, download it and 
+Simply browse or search the repository for the needed DFASDL, download it and
 import into your link:http://www.tensei-data.com[Tensei-Data application].
 
 == DFASDL descriptions ==
 
 The following DFASDLs are suitable for the described use cases. They can also
 serve as a basis for creating your own DFASDLs.
+
+==== data-variations ====
+
+Describes a CSV file with three elements per line. The data type of the
+elements can be numerical or string, depending on the specific line.
 
 ==== E-mail ====
 
