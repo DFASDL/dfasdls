@@ -13,7 +13,12 @@ import into your link:http://www.tensei-data.com[Tensei-Data application].
 The following DFASDLs are suitable for the described use cases. They can also
 serve as a basis for creating your own DFASDLs.
 
-=== people-data ===
+==== E-mail ====
+
+The description of an E-mail where some of the header fields are described
+by using a choice.
+
+==== people-data ====
 
 Describes information about people, which can be read from a CSV file or
 database.
