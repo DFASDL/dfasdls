@@ -7,3 +7,13 @@ formats.
 
 Simply browse or search the repository for the needed DFASDL, download it and 
 import into your link:http://www.tensei-data.com[Tensei-Data application].
+
+== DFASDL descriptions ==
+
+The following DFASDLs are suitable for the described use cases. They can also
+serve as a basis for creating your own DFASDLs.
+
+=== people-data ===
+
+Describes information about people, which can be read from a CSV file or
+database.
