@@ -1,4 +1,4 @@
-= A collection of DFASDL description. =
+= A collection of DFASDL descriptions. =
 
 This repository holds a collection of DFASDL descriptions for various data
 formats.
